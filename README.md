@@ -1,2 +1,2 @@
-# Img-super-SRResNet
-Image Super Resolution based on SRResNet
+# image super resolution
+# image segment
